@@ -1,9 +1,3 @@
-﻿
-
-using System.Numerics;
-using System.Security.Cryptography.X509Certificates;
-using System.Xml.Linq;
-
 public class Employee
 {
     private string name;
